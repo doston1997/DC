@@ -26,7 +26,7 @@ namespace ClothingClass
         public decimal Price { get; set; }
         public Currency Currency { get; set; }
         /// <summary>
-        /// Заказанные блюда
+        /// Заказанная одежда
         /// </summary>
         public List<GoodsType> Goods { get; set; }
         /// <summary>
